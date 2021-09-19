@@ -1,7 +1,9 @@
 <h1 align="center">!Hola¡ 👋, Soy Armando Zlatkowicz</h1>
 <h3 align="center">Soy un estudiante de programación 💻</h3>
 
-- Estudio Desarrollo Web Front-End (Por ahora 👀) [SCP-990-Oficial page](https://scp-990.000webhostapp.com/)
+- Estudio Desarrollo Web Front-End (Por ahora 👀) 
+
+- Comenze hace poco en el desarrollo web, esta es mi primera página [SCP-990-Oficial page](https://scp-990.000webhostapp.com/)
 
 - 📧 Mail de contacto: **00Absolute11@protonmail.ch**
 
