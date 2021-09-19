@@ -14,7 +14,7 @@
 <h3 align="left"> Contactame: </h3>
 <p align="left">
 <a href="https://instagram.com/armandozlatkowicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armandozlatkowicz" height="30" width="40" /></a>
-<a href="https://discord.gg/Ialkaild#8477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8477" height="30" width="40" /></a>
+<a href="https://discord.gg/#8477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ialkaild#8477" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Lenguajes que estoy aprendiendo: </h3>
