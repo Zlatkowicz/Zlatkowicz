@@ -9,7 +9,7 @@
 
 - 🔒 Proton Mail: **00Absolute11@protonmail.ch**
 
-- 🎵  Me gusta escuchar música al programar **Freestyle 🎤**
+- 🎵  Me gusta escuchar música al programar
 
 <h3 align="left"> Contactame: </h3>
 <p align="left">
